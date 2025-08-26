@@ -35,7 +35,7 @@ Mở Backend của project trong IntelliJ IDEA.
 
 - Chạy chương trình:
 
-- Chạy file Main.java.
+- Chạy file InventoryManagementSystemApplication.java.
 
 Mở Frontend của project trong VSCode.
 
