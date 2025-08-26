@@ -27,15 +27,22 @@ Clone repository:
 
 git clone https://github.com/your-username/inventory-management-system.git
 
-Mở project trong IntelliJ IDEA.
+Mở Backend của project trong IntelliJ IDEA.
 
-Cấu hình database:
+- Cấu hình database:
 
-Tạo database: inventory
+- Tạo database: inventory
 
-Chạy chương trình:
+- Chạy chương trình:
 
-Chạy file Main.java.
+- Chạy file Main.java.
+
+Mở Frontend của project trong VSCode.
+
+- Mở terminal
+  npm install
+  rồi:
+  npm start
 
 📸 Giao diện minh hoạ
 
